@@ -1,3 +1,4 @@
+print("String reversal operation:")
 text=input('Enter a string= ')
 string=" "
 length=len(text)-1
