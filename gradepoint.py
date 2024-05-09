@@ -1,3 +1,4 @@
+print("Calculating CGPA:")
 number=float(input('Enter the number= '))
 if(number>=80 and number<=100):
     print('The result is A+')
